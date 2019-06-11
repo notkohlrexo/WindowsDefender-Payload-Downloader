@@ -1,0 +1,6 @@
+C:\Users\notcorex\source\repos\DisableDefender-DownloadFile\DisableDefender-DownloadFile\obj\Debug\DisableDefender_DownloadFile.Properties.Resources.resources
+C:\Users\notcorex\source\repos\DisableDefender-DownloadFile\DisableDefender-DownloadFile\obj\Debug\DisableDefender-DownloadFile.csproj.GenerateResource.cache
+C:\Users\notcorex\source\repos\DisableDefender-DownloadFile\DisableDefender-DownloadFile\obj\Debug\DisableDefender-DownloadFile.csproj.CoreCompileInputs.cache
+C:\Users\notcorex\source\repos\DisableDefender-DownloadFile\DisableDefender-DownloadFile\bin\Debug\DisableDefender-DownloadFile.exe.config
+C:\Users\notcorex\source\repos\DisableDefender-DownloadFile\DisableDefender-DownloadFile\bin\Debug\DisableDefender-DownloadFile.exe
+C:\Users\notcorex\source\repos\DisableDefender-DownloadFile\DisableDefender-DownloadFile\obj\Debug\DisableDefender-DownloadFile.exe
