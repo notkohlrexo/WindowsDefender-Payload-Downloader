@@ -2,4 +2,4 @@
 
 Credits for disabling windows defender to NYANxCAT - https://github.com/NYAN-x-CAT
 
-I made that in 1 hour so don't judge me if something doesn't work, I might fix it tho, also I'm newer to C#.
+Don't judge me if something doesn't work I didn't test everything properly, I might fix it tho, also I'm newer to C#.
